@@ -20,9 +20,6 @@ import 'sanitize.css/sanitize.css';
 // Import root app
 import App from 'containers/App';
 
-// Import selector for `syncHistoryWithStore`
-import { makeSelectLocationState } from 'containers/App/selectors';
-
 // Import Language Provider
 import LanguageProvider from 'containers/LanguageProvider';
 
